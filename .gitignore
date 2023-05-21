@@ -13,8 +13,6 @@ ML_Models/MultiLabelModel.h5
 # testing
 /coverage
 
-# production
-/build
 
 # misc
 .DS_Store
@@ -37,7 +35,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
+# build/
 develop-eggs/
 dist/
 downloads/
