@@ -1,11 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 #custom 
-model.tf/
-ML_Models/
-*.joblib
-*.pkl 
-*.h5 
+model.tf/variables/variables.data-00000-of-00001
+ML_Models/MultiLabelModel.h5
 
 
 # dependencies
