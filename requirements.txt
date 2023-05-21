@@ -1,4 +1,4 @@
-python_version >= "3.9"
+python_version>="3.9"
 absl-py==1.4.0
 astunparse==1.6.3
 blinker==1.6.2
